@@ -16,4 +16,4 @@
 **Base técnica (autodidata):** Linux · TCP/IP · Bash/SSH · Inglês avançado
 
 ---
-📫 [LinkedIn]([https://www.linkedin.com/in/pedro-gabriel-lopes-da-silva-229003165/?locale=pt](https://www.linkedin.com/in/pedro-gabriel-lopes-da-silva-cbs/?locale=pt-BR))
+📫 [LinkedIn](https://www.linkedin.com/in/pedro-gabriel-lopes-da-silva-cbs/?locale=pt-BR)
