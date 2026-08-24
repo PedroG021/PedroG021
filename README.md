@@ -5,6 +5,7 @@
 **Completed:** all 34 levels of OverTheWire: Bandit → [technical write-ups](https://github.com/PedroG021/overthewire-bandit)
 **In progress:** CS50's Introduction to Programming with Python (Harvard) — expected Sep/2026
 **Core skills (self-taught):** Linux · TCP/IP · Bash/SSH · Advanced English
+
 📫 [LinkedIn](https://www.linkedin.com/in/pedro-gabriel-lopes-da-silva-cbs/?locale=en-US)
 
 ---
@@ -15,5 +16,7 @@
 **Em andamento:** CS50's Introduction to Programming with Python (Harvard) — previsão Set/2026
 **Base técnica (autodidata):** Linux · TCP/IP · Bash/SSH · Inglês avançado
 
----
 📫 [LinkedIn](https://www.linkedin.com/in/pedro-gabriel-lopes-da-silva-cbs/?locale=pt-BR)
+
+---
+
