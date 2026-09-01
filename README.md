@@ -4,7 +4,7 @@
 
 **Completed:** all 34 levels of OverTheWire: Bandit → [technical write-ups](https://github.com/PedroG021/overthewire-bandit)
 
-**In progress:** CS50's Introduction to Programming with Python (Harvard) — expected Sep/2026
+**In progress:** CS50's Introduction to Programming with Python (Harvard) — expected Oct/2026
 
 **Core skills (self-taught):** Linux · TCP/IP · Bash/SSH · Advanced English
 
@@ -17,7 +17,7 @@
 
 **Concluí:** os 34 níveis do OverTheWire: Bandit → [write-ups técnicos](https://github.com/PedroG021/overthewire-bandit)
 
-**Em andamento:** CS50's Introduction to Programming with Python (Harvard) — previsão Set/2026
+**Em andamento:** CS50's Introduction to Programming with Python (Harvard) — previsão Out/2026
 
 **Base técnica (autodidata):** Linux · TCP/IP · Bash/SSH · Inglês avançado
 
