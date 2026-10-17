@@ -8,6 +8,8 @@
 
 **Concluí:** CS50's Introduction to Programming with Python (Harvard) — Final Project → [animal-fighters](https://github.com/PedroG021/animal-fighters)
 
+**Em andamento:** Google Cybersecurity Professional Certificate (Google/Coursera)
+
 **Projeto:** Gerenciador de biblioteca pessoal em Python (CLI) com API do Google Books, gráficos Matplotlib e 32 testes com pytest → [library-system](https://github.com/PedroG021/library-system)
 
 **Base técnica:** Linux · TCP/IP · Bash/SSH · Inglês avançado
@@ -25,6 +27,8 @@
 **Completed:** all 34 levels of OverTheWire: Bandit → [technical write-ups](https://github.com/PedroG021/overthewire-bandit)
 
 **Completed:** CS50's Introduction to Programming with Python (Harvard) — Final Project → [animal-fighters](https://github.com/PedroG021/animal-fighters)
+
+**In progress:** Google Cybersecurity Professional Certificate (Google/Coursera)
 
 **Project:** Personal library manager in Python (CLI) with Google Books API integration, Matplotlib charts and a 32-test pytest suite → [library-system](https://github.com/PedroG021/library-system)
 
