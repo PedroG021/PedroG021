@@ -10,7 +10,7 @@
 
 **Projeto:** Gerenciador de biblioteca pessoal em Python (CLI) com API do Google Books, gráficos Matplotlib e 32 testes com pytest → [library-system](https://github.com/PedroG021/library-system)
 
-**Base técnica (autodidata):** Linux · TCP/IP · Bash/SSH · Inglês avançado
+**Base técnica:** Linux · TCP/IP · Bash/SSH · Inglês avançado
 
 **Python:** POO (classes, métodos de classe e estáticos) · type hints (mypy) · `match/case` · validação de entrada · testes com pytest (monkeypatch, capsys, mocks) · consumo de APIs REST · geradores · Matplotlib
 
@@ -28,7 +28,7 @@
 
 **Project:** Personal library manager in Python (CLI) with Google Books API integration, Matplotlib charts and a 32-test pytest suite → [library-system](https://github.com/PedroG021/library-system)
 
-**Technical foundation (self-taught):** Linux · TCP/IP · Bash/SSH · Advanced English
+**Technical foundation:** Linux · TCP/IP · Bash/SSH · Advanced English
 
 **Python:** OOP (classes, class and static methods) · type hints (mypy) · `match/case` · input validation · pytest testing (monkeypatch, capsys, mocks) · REST API consumption · generators · Matplotlib
 
