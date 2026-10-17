@@ -2,7 +2,7 @@
 
 🇧🇷 **PT** — Suporte Técnico N1 em transição para Cibersegurança (SOC N1) e Desenvolvimento Python. 2+ anos investigando contas comprometidas (análise de padrões de IP e sessão) em atendimento 100% remoto — base de Linux/redes construída via Cisco Academy.
 
-**Aberto a vagas de:** Cibersegurança (SOC N1) · Desenvolvedor Python (júnior)
+**Aberto a vagas de:** Cibersegurança (estágio | SOC N1) · Desenvolvedor Python (estágio | júnior)
 
 **Concluí:** os 34 níveis do OverTheWire: Bandit → [write-ups técnicos](https://github.com/PedroG021/overthewire-bandit)
 
@@ -20,7 +20,7 @@
 
 🇺🇸 **EN** — Level 1 Technical Support transitioning into Cybersecurity (SOC L1) and Python Development. 2+ years investigating compromised accounts (IP and session pattern analysis) in 100% remote support — Linux/networking foundation built through Cisco Academy.
 
-**Open to roles in:** Cybersecurity (SOC L1) · Python Developer (junior)
+**Open to roles in:** Cybersecurity (internship | SOC L1) · Python Developer (internship | junior)
 
 **Completed:** all 34 levels of OverTheWire: Bandit → [technical write-ups](https://github.com/PedroG021/overthewire-bandit)
 
