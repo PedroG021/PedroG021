@@ -1,6 +1,6 @@
 ### Pedro Gabriel Lopes da Silva
 
-🇧🇷 **PT** — Suporte Técnico N1 em transição para Cibersegurança (SOC N1) e Desenvolvimento Python. 2+ anos investigando contas comprometidas (análise de padrões de IP e sessão) em atendimento 100% remoto — base de Linux/redes construída via Cisco Academy.
+**PT-BR** — Suporte Técnico N1 em transição para Cibersegurança (SOC N1) e Desenvolvimento Python. 2+ anos investigando contas comprometidas (análise de padrões de IP e sessão) em atendimento 100% remoto — base de Linux/redes construída via Cisco Academy.
 
 **Aberto a vagas de:** Cibersegurança (estágio | SOC N1) · Desenvolvedor Python (estágio | júnior)
 
@@ -18,7 +18,7 @@
 
 ---
 
-🇺🇸 **EN** — Level 1 Technical Support transitioning into Cybersecurity (SOC L1) and Python Development. 2+ years investigating compromised accounts (IP and session pattern analysis) in 100% remote support — Linux/networking foundation built through Cisco Academy.
+**EN** — Level 1 Technical Support transitioning into Cybersecurity (SOC L1) and Python Development. 2+ years investigating compromised accounts (IP and session pattern analysis) in 100% remote support — Linux/networking foundation built through Cisco Academy.
 
 **Open to roles in:** Cybersecurity (internship | SOC L1) · Python Developer (internship | junior)
 
